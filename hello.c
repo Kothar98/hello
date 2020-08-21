@@ -10,6 +10,9 @@
 int main(int argc, char **argv) {
 
     printf ("Kothar Al Naamani!\n");
+    printf ("Lawand Anwer!\n");
+    printf ("My major is Computer Science!\n");
+
 
     return 0;
 
