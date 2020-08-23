@@ -10,6 +10,7 @@
 int main(int argc, char **argv) {
 
     printf ("Kothar Al Naamani!\n");
+    printf("Civil Engineering!\n");
 
     return 0;
 
